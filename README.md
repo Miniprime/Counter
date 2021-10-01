@@ -1,2 +1,5 @@
-# android-counter
-Counter app for Android
+# Counter app for Android
+
+## License
+ - Source: MIT License
+ - Icon: Apache License version 2.0
